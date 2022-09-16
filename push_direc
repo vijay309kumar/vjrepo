@@ -472,3 +472,4 @@
   472  git push -u origin master
   473  git status
   474  history > push_direc
+  This is history file
