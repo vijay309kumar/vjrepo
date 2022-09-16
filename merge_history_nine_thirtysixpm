@@ -1,0 +1,500 @@
+   86  git ls-files --stage
+   87  ls -l
+   88  mkdir test
+   89  clear
+   90  vagrant -v
+   91  mkdir theold
+   92  cd ..
+   93  ls -l
+   94  cd usr
+   95  ls -l
+   96  mkdir test
+   97  vagrant ssh
+   98  vagrant global-status
+   99  vagrant init
+  100  cd ..
+  101  vagrant init
+  102  mkdir test64
+  103  takeown /f C:\dev\nvg510controls\.git /r /d Y
+  104  icacls C:\dev\nvg510controls\.git /t /grant Everyone:(F)
+  105  icacls C:\dev\nvg510controls\.git /t /grant Everyone:F
+  106  icacls C:\dev\nvg510controls\.git /t /grant Everyone:
+  107  mkdir test
+  108  ls -l
+  109  rm -rf test
+  110  ls -l
+  111  mkdir cenos_7
+  112  cd cenos_7
+  113  vi Vagrantfile
+  114  vagrant up
+  115  vagrant ssh
+  116  vagrant halt
+  117  cd ..
+  118  ls -l
+  119  cd cenos_7
+  120  vagrant up
+  121  ls -l
+  122  vagrant ssh
+  123  vagrant halt
+  124  exit
+  125  ls -l
+  126  cd cenos_7
+  127  vagrant up
+  128  ls -l
+  129  rpm -qi git
+  130  rpm -qi httpd
+  131  ps -aux
+  132  vagrant ssh
+  133  cd cenos_7
+  134  vagrant ssh
+  135  vagrant destroy 
+  136  exit
+  137  vagrant box-list
+  138  vagrant boxes
+  139  vagrant box
+  140  vagrant box-list
+  141  vagrant box list
+  142  vagrant -v
+  143  vagrant box add laravel/homstead
+  144  vagrant box add laravel/homestead
+  145  q
+  146  vagrant box list
+  147  vagrant add ubuntu/xenial64
+  148  vagrant box add ubuntu/xenial64
+  149  vagrant box list
+  150  vagrant init ubuntu/xenial64
+  151  vagrant up
+  152  vagrant up
+  153  vagrant destroy ubuntu/xenial64
+  154  vagrant box remove ubuntu/xenial64
+  155  vagrant box list
+  156  vagrant -v
+  157  vagrant global-status
+  158  vagrant destroy 87d6656
+  159  vagrant global-status
+  160  vagrant refresh
+  161  exit
+  162  vagrant -v
+  163  vagrant box list
+  164  vagrant up
+  165  vagrant global-status
+  166  vagrant destroy b41ba01
+  167  vagrant box list
+  168  vagrant global-status
+  169  vagrant box remove ubuntu/xenial64
+  170  vagrant box list
+  171  vagrant init ubuntu/trusty64
+  172  vagrant up
+  173  vagrant box list
+  174  vagrant box remove centos/7
+  175  vagrant box list
+  176  vagrant box remove ubuntu/trustu64
+  177  vagrant box remove ubuntu/trusty64
+  178  vagrant box add ubuntu/trusty64
+  179  vagrant up
+  180  vagrant box list
+  181  vagrant init ubuntu/trusty64
+  182  ls
+  183  rm Vagrantfile
+  184  ls
+  185  vagrant init ubuntu/trusty64
+  186  vagrant box list
+  187  vagrant init ubuntu/trusty64
+  188  vagrant up
+  189  vagrant ssh
+  190  vagrant halt
+  191  vagrant box list
+  192  vagrant global-status
+  193  vagrant box list
+  194  vagrant up
+  195  ssh 
+  196  vagrant global status
+  197  ls
+  198  vagrant ssh
+  199  vagrant halt
+  200  vagrant shutdown
+  201  sudo poweroff
+  202  poweroff
+  203  exit
+  204  vagrant box list
+  205  ls
+  206  cd cenos_7/
+  207  ls
+  208  vi Vagrantfile 
+  209  vagrant up
+  210  vagrant ssh
+  211  cd cenos_7/
+  212  vagrant ssh
+  213  vagrant up
+  214  vagrant ssh
+  215  ls
+  216  vagrant provision
+  217  vagrant --provision
+  218  vagrant halt
+  219  vagrant ssh
+  220  varant up
+  221  vagrant up
+  222  vagrant ssh
+  223  vagrant ssh
+  224  java halt
+  225  vagrant halt
+  226  cd ..
+  227  vagrant box list
+  228  exit
+  229  vagrant box list
+  230  ls
+  231  cd cenos_7/
+  232  vagrant up
+  233  ssh
+  234  vagrant ssh
+  235  vagrant halt
+  236  vagrant destroy
+  237  cd ..
+  238  vagrant box list
+  239  vagrant global statsu
+  240  vagrant global status
+  241  vagrant -v
+  242  vagrant global-status
+  243  vagrant destroy a2e37fd
+  244  vagrant box list
+  245  vagrant remove box ubuntu/trusty64
+  246  vagrant box remove ubuntu/trusty64
+  247  vagrant box list
+  248  exit
+  249  vagrant box list
+  250  yum install vagrant
+  251  vagrant -v
+  252  vagrant boxes
+  253  vagrant ssh
+  254  exit
+  255  vagrant box list
+  256  ls
+  257  cd cenos_7/
+  258  ll
+  259  vagrant up
+  260  vagrant up
+  261  vagrant ssh
+  262  cat Vagrantfile 
+  263  ll
+  264  vagrant status
+  265  vargrant -v
+  266  vagrant -v
+  267  vagrant global-status
+  268  vagrant suspend
+  269  vagrant resume
+  270  vagrant halt
+  271  vagrant destroy
+  272  vagrant box list
+  273  vagrant box remove centos/7
+  274  vagrant box list
+  275  cd ..
+  276  mkdir ubuntu_os
+  277  mkdir ubuntu_jj
+  278  mkdir kk
+  279  vargrant global starus
+  280  vargrant global status
+  281  vagrant global-status
+  282  mkdir kk
+  283  exit
+  284  mkdir ubuntu_5_3_2021
+  285  ll
+  286  cd ubuntu_5_3_2021/
+  287  vi Vagrantfile
+  288  vagrant up
+  289  vi Vagrantfile
+  290  vagrant up
+  291  vagrant ssh
+  292  vagrant ssh
+  293  logout
+  294  vagrant halt
+  295  cd ubuntu_5_3_2021/
+  296  vagrant halt
+  297  logout
+  298  ll
+  299  cd ub
+  300  cd ubuntu_5_3_2021/
+  301  ll
+  302  vagrant resume
+  303  vagrant up
+  304  exit
+  305  vagrant halt
+  306  cd ubuntu_5_3_2021/
+  307  vagrant halt
+  308  cd ubuntu_5_3_2021/
+  309  vagrant ssh
+  310  cd ubuntu_5_3_2021/
+  311  vagrant up
+  312  vagrant ssh
+  313  exit
+  314  cd ubuntu_5_3_2021/
+  315  vargrant up
+  316  vagrant up
+  317  vagrant ssh
+  318  vagrant halt
+  319  exit
+  320  ls
+  321  mkdir git_1_repo
+  322  cd git_1_repo/
+  323  ls
+  324  ls -la
+  325  git init
+  326  git status
+  327  git remote add origin https://github.com/vijay309kumar/git_repo_remote.git
+  328  git status
+  329  git config --list
+  330  git pull origin main
+  331  git pull origin master
+  332  git clone https://github.com/vijay309kumar/git_repo_remote.git
+  333  git pull origin master
+  334  git pull origin master
+  335  git pull origin main
+  336  [200~git remote add origin https://github.com/vijay309kumar/git_repo_remote.git
+  337  git branch -M main
+  338  git push -u origin main~
+  339  git remote add origin https://github.com/vijay309kumar/git_repo_remote.git
+  340  git branch -M main
+  341  git push -u origin main~
+  342  git push -u origin main
+  343  git pull origin main
+  344  git status
+  345  touch t1 t2 t3
+  346  ls
+  347  git status
+  348  git add .
+  349  git status
+  350  git add t1 t2 t3
+  351  git status
+  352  git commit -m "first commit"
+  353  git config --global user.email "vijay309kumar"
+  354  git config --global user.email "vijay309.kumar@gmail.com"
+  355  git config --global user.name "vijay309kumar"
+  356  git status
+  357  git commit -m "first commit"
+  358  git push -u origin main
+  359  git commit -m "first commit"clear
+  360  clear
+  361  history
+  362  cd ..
+  363  mkdir pull_practice
+  364  ls
+  365  git status
+  366  git status --list
+  367  ls
+  368  cd pull_practice
+  369  ls
+  370  git status
+  371  git init
+  372  ls
+  373  ls -la
+  374  git remote add origin https://github.com/vijay309kumar/repository_demo.git
+  375  git status
+  376  ls 
+  377  git status --list
+  378  git pull origin main
+  379  git pull origin master
+  380  ls
+  381  cat gitfile1
+  382  git branch
+  383  git pull origin master
+  384  touch t1.txt t1.pdf
+  385  ls
+  386  git pull origin maste
+  387  git pull origin master
+  388  ls
+  389  git pull origin master
+  390  ls
+  391  git status
+  392  git add
+  393  git add t1.txt t1.pdf
+  394  git status
+  395  git commit -m "first comment"
+  396  git status
+  397  git push -u origin main
+  398  git push origin master
+  399  history > push_practice
+  400  clear
+  401  cd push_practice
+  402  cat push_practice
+  403  mkdir Pull_again
+  404  cd pull_again
+  405  ls
+  406  git status
+  407  git status --list
+  408  git init
+  409  ls -la
+  410  ls
+  411  cat push_pratice
+  412  git remote add origin https://github.com/vijay309kumar/repository_demo.git
+  413  git status
+  414  ls git status --list
+  415  git status --list
+  416  git branch
+  417  pwd
+  418  git branch
+  419  git -branch
+  420  git_branch
+  421  git branch
+  422  touch file1.txt file2.txt
+  423  ls
+  424  git config --status
+  425  git config --list
+  426  git status
+  427  git commit -m "pull_again first commit"
+  428  ls
+  429  git status
+  430  git pull -u origin master
+  431  git status
+  432  git push origin master
+  433  git push -u origin main
+  434  git add file1.txt file2.txt
+  435  git status
+  436  git commit -m "second commit in push again"
+  437  git status
+  438  clear
+  439  cat push_practice
+  440  cd push_practice
+  441  cat push_pratice
+  442  git commit -m "demo commit"
+  443  git commit -m "demo commit"
+  444  git commit -m "demo commit"ls
+  445  git commit -m "demo commit"cd ..
+  446  clear
+  447  git status
+  448  ls
+  449  git push -u origin main
+  450  cd ..
+  451  cd ..
+  452  mkdir push_direc
+  453  cd push_direc
+  454  git init
+  455  git status
+  456  ls -la
+  457  git remote add origin https://github.com/vijay309kumar/vjrepo.git
+  458  git status
+  459  git status -list
+  460  git config --list
+  461  ls
+  462  git add ab1 ab2 ab3
+  463  touch ab1 ab2 ab3
+  464  ls 
+  465  git status
+  466  git add .
+  467  git status
+  468  git commit -m "push commit"
+  469  git status
+  470  ls 
+  471  git push -u origin master
+  472  git status
+  473  history > push_direc
+  474  cat push_direc
+  475  ls
+  476  git push origin master
+  477  git push origin main
+  478  git push -u origin main
+  479  clear
+  480  cat push_direc
+  481  ls
+  482  cd .git
+  483  ls
+  484  cd git_1_repo/
+  485  ls
+  486  cd push_direct
+  487  cd ..
+  488  cd push_direc/
+  489  ls
+  490  cat push_direc
+  491  ls 
+  492  touch v1 v2 v3 
+  493  git add .
+  494  git status
+  495  git commit -m "This files have been created using TOUCH Command and they r empty"
+  496  git status
+  497  git pull origin master
+  498  git push -u origin master
+  499  git status
+  500  git pull -u origin master
+  501  git pull origin master
+  502  ls
+  503  git status
+  504  git log
+  505  git show 31c1b03
+  506  git diff
+  507  git show 0c17813d3703dc2f1c6ca7e7b79f19320079acd8
+  508  git log
+  509  git log -1
+  510  git log --online
+  511  git log --oneline
+  512  git log --grep
+  513  git log --grep "hi"
+  514  git log --grep "push"
+  515  git show 31c1b0315
+  516  git branch
+  517  git branch Demo_branch
+  518  ls
+  519  git branch
+  520  git checkout Demo_branch 
+  521  git branch
+  522  git status
+  523  git branch Demo_branch2
+  524  git branch
+  525  git checkout demo
+  526  git checkout demo_branch2
+  527  git branch
+  528  git checkout Demo_branch2
+  529  git branch
+  530  touch a b c
+  531  git status
+  532  git checkout Demo_branch
+  533  git status
+  534  git add .
+  535  git status
+  536  git checkout Demo_branch2
+  537  git status
+  538  git checkout Demo_branch
+  539  git commit -m "committed from  Demo_branch"
+  540  git status
+  541  git checkout Demo_branch2
+  542  git status
+  543  git push -u origin Demo_branch 
+  544  git status
+  545  git checkout master
+  546  git status
+  547  history > Branch_history
+  548  ls
+  549  git status
+  550  git add .
+  551  git status
+  552  git checkout Demo_branch2
+  553  git status
+  554  git commit -m "Branch history and logs sending to Demo_branch2"
+  555  git status
+  556  git push -u origin Demo_branch2
+  557  git status
+  558  git branch
+  559  git merge Demo_branch
+  560  git status
+  561  git checkout Demo_branch
+  562  git status
+  563  git push -u origin master
+  564  git status
+  565  git show
+  566  git branch
+  567  git checkout master
+  568  git show
+  569  git checkout Demo_branch2
+  570  git show
+  571  git push - u origin Demo_branch2
+  572  git branch
+  573  git push -u origin main
+  574  git push -u origin Demo_branch2
+  575  git branch
+  576  git checkout master
+  577  git branch
+  578  git merge master
+  579  git commit -m "Doing merge again with master branch"
+  580  git push -u origin master
+  581  git push -u origin master
+  582  git checkout Demo_branch
+  583  git status
+  584  git merge Demo_branch
+  585  history > merge_history_nine_thirtysixpm
